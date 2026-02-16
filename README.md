@@ -1,4 +1,5 @@
-### Hello There! I'm Ramon Sesto 😉
+### Aspiring Full Stack Developer | JavaScript | React | Node.js
+Building projects and improving every week.
 
 
  <div>
